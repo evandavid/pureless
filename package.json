@@ -1,0 +1,25 @@
+{
+  "name": "PureLESS",
+  "version": "0.1.0",
+  "description": "A LESS port of YUI's Pure CSS",
+  "main": "/src/less/pure.less",
+  "repository": {
+    "type": "git",
+    "url": "http://cdunn.io/pureless"
+  },
+  "keywords": [
+    "Pure",
+    "CSS",
+    "LESS"
+  ],
+  "author": "@pxdunn",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-autoprefixer": "0.0.9",
+    "gulp-less": "^1.3.5",
+    "gulp-minify-css": "^0.3.7",
+    "gulp-rename": "^1.2.0",
+    "gulp-watch": "^0.6.9"
+  }
+}
